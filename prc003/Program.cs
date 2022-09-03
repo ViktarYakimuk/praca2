@@ -11,12 +11,11 @@ int Prompt(string message)
    return value;
 }
 
-int number1 = Prompt("Введите первое число");
-int number2 = Prompt("Введите второе число");
-
-if (number2 % number1 != 0)
+int number1 = Prompt("Введите первое число->");
+int number2 = Prompt("Введите второе число->");
+int value = number2 % number1;
+if (value != 0)
 {
-   int value = number2 % number1;
    System.Console.WriteLine($"{number2},{number1} -> не кратно, остаток{value}");
 }
 else
