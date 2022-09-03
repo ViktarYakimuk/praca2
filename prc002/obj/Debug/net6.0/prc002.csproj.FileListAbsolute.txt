@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Рабочий стол\praca2\prac\prc002\bin\Debug\net6.0\prc002.exe
+C:\Users\User\OneDrive\Рабочий стол\praca2\prac\prc002\bin\Debug\net6.0\prc002.deps.json
+C:\Users\User\OneDrive\Рабочий стол\praca2\prac\prc002\bin\Debug\net6.0\prc002.runtimeconfig.json
+C:\Users\User\OneDrive\Рабочий стол\praca2\prac\prc002\bin\Debug\net6.0\prc002.dll
+C:\Users\User\OneDrive\Рабочий стол\praca2\prac\prc002\bin\Debug\net6.0\prc002.pdb
+C:\Users\User\OneDrive\Рабочий стол\praca2\prac\prc002\obj\Debug\net6.0\prc002.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\praca2\prac\prc002\obj\Debug\net6.0\prc002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\praca2\prac\prc002\obj\Debug\net6.0\prc002.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\praca2\prac\prc002\obj\Debug\net6.0\prc002.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\praca2\prac\prc002\obj\Debug\net6.0\prc002.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\praca2\prac\prc002\obj\Debug\net6.0\prc002.dll
+C:\Users\User\OneDrive\Рабочий стол\praca2\prac\prc002\obj\Debug\net6.0\refint\prc002.dll
+C:\Users\User\OneDrive\Рабочий стол\praca2\prac\prc002\obj\Debug\net6.0\prc002.pdb
+C:\Users\User\OneDrive\Рабочий стол\praca2\prac\prc002\obj\Debug\net6.0\prc002.genruntimeconfig.cache
+C:\Users\User\OneDrive\Рабочий стол\praca2\prac\prc002\obj\Debug\net6.0\ref\prc002.dll
